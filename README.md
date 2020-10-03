@@ -9,5 +9,5 @@ In this project, I am trying to make a clone of the famous e-commerce website, A
 3. download and unzip this file and cd into that directory.
 4. run "npm start"
 
-#Video reference
+# Video reference
 https://www.youtube.com/watch?v=1_IYL9ZMR_Y&list=PL-J2q3Ga50oMQa1JdSJxYoZELwOJAXExP&index=5
